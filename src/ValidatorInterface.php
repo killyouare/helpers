@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Helpers;
+namespace Killyouare\Helpers;
 
 interface ValidatorInterface
 {
