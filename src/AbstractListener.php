@@ -2,7 +2,6 @@
 
 namespace Killyouare\Helpers;
 
-use App\Events\AbstractEvent;
 use Illuminate\Support\Facades\Log;
 
 abstract class AbstractListener
