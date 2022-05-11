@@ -1,5 +1,6 @@
 {
     "name": "killyouare/helpers",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Killyouare\\Helpers\\": "src/"
